@@ -3,11 +3,11 @@
 /**
  * main - prints the alphabet in lowercase,
  * followed by a new line, except q and e
- * Return:Always 0 (success)
+ * Return: Aways 0 (Sucess)
  */
 int main(void)
 {
-	char ch;
+	char ch = 'a';
 
 	while (ch <= 'z')
 	{
